@@ -1,0 +1,1 @@
+{"file":"alive.go:middleware.IAmAlive:12","level":"info","msg":"map[username:[test,key=createdtime,value=now]]","path":"/users","peer":"10.112.27.19","serino":1568613742018864892,"time":"2019-09-16T02:02:22-04:00","user":null}

@@ -1,0 +1,5 @@
+{"file":"alive.go:middleware.IAmAlive:12","level":"info","msg":"map[usrename:[test]]","path":"/users","peer":"10.112.27.19","serino":1568277387391266567,"time":"2019-09-12T04:36:27-04:00","user":null}
+{"file":"alive.go:middleware.IAmAlive:12","level":"info","msg":"map[username:[test]]","path":"/users","peer":"10.112.27.19","serino":1568277393832201602,"time":"2019-09-12T04:36:33-04:00","user":null}
+{"file":"alive.go:middleware.IAmAlive:12","level":"info","msg":"map[username:[test]]","path":"/users","peer":"10.112.27.19","serino":1568277402055198289,"time":"2019-09-12T04:36:42-04:00","user":null}
+{"file":"alive.go:middleware.IAmAlive:12","level":"info","msg":"map[username:[test]]","path":"/users","peer":"10.112.27.19","serino":1568277412237502572,"time":"2019-09-12T04:36:52-04:00","user":null}
+{"file":"alive.go:middleware.IAmAlive:12","level":"info","msg":"map[username:[test]]","path":"/users","peer":"10.112.27.19","serino":1568277466430728519,"time":"2019-09-12T04:37:46-04:00","user":null}

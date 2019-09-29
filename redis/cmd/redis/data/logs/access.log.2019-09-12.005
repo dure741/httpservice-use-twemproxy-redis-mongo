@@ -1,0 +1,2 @@
+{"file":"alive.go:middleware.IAmAlive:12","level":"info","msg":"map[username:[test]]","path":"/users","peer":"10.112.27.19","serino":1568278229319567268,"time":"2019-09-12T04:50:29-04:00","user":null}
+{"file":"alive.go:middleware.IAmAlive:12","level":"info","msg":"map[username:[test]]","path":"/users","peer":"10.112.27.19","serino":1568278236184814470,"time":"2019-09-12T04:50:36-04:00","user":null}

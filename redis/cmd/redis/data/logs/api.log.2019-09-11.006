@@ -1,0 +1,133 @@
+{"file":"main.go:main.InitPidfile:219","level":"info","msg":"Wrote pid to pidfile '/tmp/demo.pid'","time":"2019-09-11T02:39:03-04:00"}
+{"file":"iocgo.go:iocgo.LaunchEngine:33","level":"info","msg":"init resource[Demoresorce pool] ok","time":"2019-09-11T02:39:03-04:00"}
+{"file":"iocgo.go:iocgo.LaunchEngine:33","level":"info","msg":"init resource[accesslog] ok","time":"2019-09-11T02:39:03-04:00"}
+{"file":"iocgo.go:iocgo.LaunchEngine:33","level":"info","msg":"init resource[uauth service] ok","time":"2019-09-11T02:39:03-04:00"}
+{"file":"bucket.go:tokenbucket.NewBucket:27","level":"info","msg":"frequency args : 1000 /s  or  1s one time ","time":"2019-09-11T02:39:03-04:00"}
+{"file":"bucket.go:tokenbucket.NewBucket:39","level":"info","msg":"frequency: every 1s add  +1000 token to bucket ","time":"2019-09-11T02:39:03-04:00"}
+{"file":"iocgo.go:iocgo.LaunchEngine:33","level":"info","msg":"init resource[ratelimit_1000] ok","time":"2019-09-11T02:39:03-04:00"}
+{"file":"iocgo.go:iocgo.LaunchEngine:33","level":"info","msg":"init resource[tracerlog] ok","time":"2019-09-11T02:39:03-04:00"}
+{"file":"main.go:main.main:107","level":"info","msg":"init dependency service ok","time":"2019-09-11T02:39:03-04:00"}
+{"file":"main.go:main.main:116","level":"info","msg":"http pprof service init ok","time":"2019-09-11T02:39:03-04:00"}
+{"file":"main.go:main.main:129","level":"info","msg":"http service init ok","time":"2019-09-11T02:39:03-04:00"}
+{"file":"main.go:main.main:132","level":"info","msg":"          ________                                                     ","time":"2019-09-11T02:39:03-04:00"}
+{"file":"main.go:main.main:133","level":"info","msg":"       __/_/      |______   redis. is running                ","time":"2019-09-11T02:39:03-04:00"}
+{"file":"main.go:main.main:134","level":"info","msg":"      / O O O O O O O O O ...........................................  ","time":"2019-09-11T02:39:03-04:00"}
+{"file":"main.go:main.main:135","level":"info","msg":"                                                                       ","time":"2019-09-11T02:39:03-04:00"}
+{"file":"main.go:main.main:136","level":"info","msg":"      2019-09-11 02:39:03.468350674 -0400 EDT m=+0.034240786","time":"2019-09-11T02:39:03-04:00"}
+{"file":"main.go:main.main:137","level":"info","msg":"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!","time":"2019-09-11T02:39:03-04:00"}
+Now listening on: http://localhost:8080
+Application started. Press CTRL+C to shut down.
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:39:06-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:39:06-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:40:26-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:40:26-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:40:36-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:40:36-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:40:37-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:40:37-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:40:37-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:40:37-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:40:38-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:40:38-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:40:38-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:40:38-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:40:39-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:40:39-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:40:39-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:40:39-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:40:40-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:40:40-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:40:40-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:40:40-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:40:40-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:40:40-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:40:41-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:40:41-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:40:41-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:40:41-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:40:41-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:40:41-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:40:42-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:40:42-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:40:43-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:40:43-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:40:43-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:40:43-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:40:43-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:40:43-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:40:44-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:40:44-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:40:44-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:40:44-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:40:44-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:40:44-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:40:45-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:40:45-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:40:45-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:40:45-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:40:46-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:40:46-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:40:46-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:40:46-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:40:46-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:40:46-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:40:47-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:40:47-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:40:47-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:40:47-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:40:54-04:00"}
+{"file":"demo.go:handler.TestDel:32","level":"debug","msg":"test ok","time":"2019-09-11T02:40:54-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:43:09-04:00"}
+{"file":"demo.go:handler.TestDel:32","level":"debug","msg":"test ok","time":"2019-09-11T02:43:09-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:47:32-04:00"}
+{"file":"demo.go:handler.TestDel:32","level":"debug","msg":"test ok","time":"2019-09-11T02:47:32-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:50:49-04:00"}
+{"file":"demo.go:handler.TestDel:32","level":"debug","msg":"test ok","time":"2019-09-11T02:50:49-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:51:05-04:00"}
+{"file":"demo.go:handler.TestDel:32","level":"debug","msg":"test ok","time":"2019-09-11T02:51:05-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:51:09-04:00"}
+{"file":"demo.go:handler.TestDel:32","level":"debug","msg":"test ok","time":"2019-09-11T02:51:09-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:51:10-04:00"}
+{"file":"demo.go:handler.TestDel:32","level":"debug","msg":"test ok","time":"2019-09-11T02:51:10-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:51:18-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:51:18-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:51:20-04:00"}
+{"file":"demo.go:handler.TestDel:32","level":"debug","msg":"test ok","time":"2019-09-11T02:51:20-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:51:21-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:51:21-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:51:23-04:00"}
+{"file":"demo.go:handler.TestDel:32","level":"debug","msg":"test ok","time":"2019-09-11T02:51:23-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:51:24-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:51:24-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:51:28-04:00"}
+{"file":"demo.go:handler.TestDel:32","level":"debug","msg":"test ok","time":"2019-09-11T02:51:28-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:52:31-04:00"}
+{"file":"demo.go:handler.TestDel:32","level":"debug","msg":"test ok","time":"2019-09-11T02:52:31-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:52:32-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:52:32-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:52:33-04:00"}
+{"file":"demo.go:handler.TestDel:32","level":"debug","msg":"test ok","time":"2019-09-11T02:52:33-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:52:34-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:52:34-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:52:35-04:00"}
+{"file":"demo.go:handler.TestDel:32","level":"debug","msg":"test ok","time":"2019-09-11T02:52:35-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:52:36-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:52:36-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:52:37-04:00"}
+{"file":"demo.go:handler.TestDel:32","level":"debug","msg":"test ok","time":"2019-09-11T02:52:37-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:52:37-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:52:37-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:52:38-04:00"}
+{"file":"demo.go:handler.TestDel:32","level":"debug","msg":"test ok","time":"2019-09-11T02:52:38-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:52:39-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:52:39-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:52:40-04:00"}
+{"file":"demo.go:handler.TestDel:32","level":"debug","msg":"test ok","time":"2019-09-11T02:52:40-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:52:42-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:52:42-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:52:43-04:00"}
+{"file":"demo.go:handler.TestDel:32","level":"debug","msg":"test ok","time":"2019-09-11T02:52:43-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:52:45-04:00"}
+{"file":"demo.go:handler.Test:26","level":"debug","msg":"test ok","time":"2019-09-11T02:52:45-04:00"}
+{"file":"demo_midware.go:middleware.DemoMiddleware:10","level":"info","msg":"in demo middleware","time":"2019-09-11T02:52:46-04:00"}
+{"file":"demo.go:handler.TestDel:32","level":"debug","msg":"test ok","time":"2019-09-11T02:52:46-04:00"}

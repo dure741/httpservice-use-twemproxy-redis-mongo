@@ -1,0 +1,4 @@
+{"file":"alive.go:middleware.IAmAlive:12","level":"info","msg":"map[]","path":"/redisdel","peer":"10.112.27.19","serino":1568185141443930765,"time":"2019-09-11T02:59:01-04:00","user":null}
+{"file":"alive.go:middleware.IAmAlive:12","level":"info","msg":"map[]","path":"/redisdel","peer":"10.112.27.19","serino":1568185149558503735,"time":"2019-09-11T02:59:09-04:00","user":null}
+{"file":"alive.go:middleware.IAmAlive:12","level":"info","msg":"map[]","path":"/redis","peer":"10.112.27.19","serino":1568185157798696395,"time":"2019-09-11T02:59:17-04:00","user":null}
+{"file":"alive.go:middleware.IAmAlive:12","level":"info","msg":"map[]","path":"/redis","peer":"10.112.27.19","serino":1568185159200563458,"time":"2019-09-11T02:59:19-04:00","user":null}

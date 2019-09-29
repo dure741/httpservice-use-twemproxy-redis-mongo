@@ -1,0 +1,19 @@
+{"file":"main.go:main.InitPidfile:219","level":"info","msg":"Wrote pid to pidfile '/tmp/demo.pid'","time":"2019-09-11T02:58:06-04:00"}
+{"file":"iocgo.go:iocgo.LaunchEngine:33","level":"info","msg":"init resource[Demoresorce pool] ok","time":"2019-09-11T02:58:06-04:00"}
+{"file":"iocgo.go:iocgo.LaunchEngine:33","level":"info","msg":"init resource[accesslog] ok","time":"2019-09-11T02:58:06-04:00"}
+{"file":"iocgo.go:iocgo.LaunchEngine:33","level":"info","msg":"init resource[uauth service] ok","time":"2019-09-11T02:58:06-04:00"}
+{"file":"bucket.go:tokenbucket.NewBucket:27","level":"info","msg":"frequency args : 1000 /s  or  1s one time ","time":"2019-09-11T02:58:06-04:00"}
+{"file":"bucket.go:tokenbucket.NewBucket:39","level":"info","msg":"frequency: every 1s add  +1000 token to bucket ","time":"2019-09-11T02:58:06-04:00"}
+{"file":"iocgo.go:iocgo.LaunchEngine:33","level":"info","msg":"init resource[ratelimit_1000] ok","time":"2019-09-11T02:58:06-04:00"}
+{"file":"iocgo.go:iocgo.LaunchEngine:33","level":"info","msg":"init resource[tracerlog] ok","time":"2019-09-11T02:58:06-04:00"}
+{"file":"main.go:main.main:107","level":"info","msg":"init dependency service ok","time":"2019-09-11T02:58:06-04:00"}
+{"file":"main.go:main.main:116","level":"info","msg":"http pprof service init ok","time":"2019-09-11T02:58:06-04:00"}
+{"file":"main.go:main.main:129","level":"info","msg":"http service init ok","time":"2019-09-11T02:58:06-04:00"}
+{"file":"main.go:main.main:132","level":"info","msg":"          ________                                                     ","time":"2019-09-11T02:58:06-04:00"}
+{"file":"main.go:main.main:133","level":"info","msg":"       __/_/      |______   redis. is running                ","time":"2019-09-11T02:58:06-04:00"}
+{"file":"main.go:main.main:134","level":"info","msg":"      / O O O O O O O O O ...........................................  ","time":"2019-09-11T02:58:06-04:00"}
+{"file":"main.go:main.main:135","level":"info","msg":"                                                                       ","time":"2019-09-11T02:58:06-04:00"}
+{"file":"main.go:main.main:136","level":"info","msg":"      2019-09-11 02:58:06.636312242 -0400 EDT m=+0.040634872","time":"2019-09-11T02:58:06-04:00"}
+{"file":"main.go:main.main:137","level":"info","msg":"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!","time":"2019-09-11T02:58:06-04:00"}
+Now listening on: http://localhost:8080
+Application started. Press CTRL+C to shut down.

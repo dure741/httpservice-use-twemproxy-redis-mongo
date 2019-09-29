@@ -1,0 +1,33 @@
+ [log]
+ logpath = "./data/logs/api.log"
+ urllogpath = "./data/logs/access.log"
+ tracerlogpath="./data/logs/tracing.log"
+ loglevel = "debug"
+ pidfile = "/tmp/demo.pid"
+ 
+ [mysql]
+ datasource = "dbuser:xxxxxxxx@tcp(10.101.255.255:39999)/mydbc?parseTime=true&loc=Local&charset=utf8"
+ maxconn = 100
+ 
+ [http]
+ serviceid = "myservice"
+ httpaddr = "0.0.0.0:8080"
+ pprofaddr = "127.0.0.1:6060"
+ http_timeout = 30
+ 
+ [uauth]
+ uauth_url = "https://usoptest.10101111.com"
+ uauth_project = "myroject"
+
+
+# Build your own profile using toml
+# more syntax about toml please find on --->
+#                                           github.com/BurntSushi/toml   
+
+[redis]
+addr="127.0.0.1:22223"
+ttl=10
+[mongoDB]
+addr="127.0.0.1:27017"
+[etcd]
+addr="127.0.0.1:2379"

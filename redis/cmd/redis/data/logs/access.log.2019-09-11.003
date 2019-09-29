@@ -1,0 +1,2 @@
+{"file":"alive.go:middleware.IAmAlive:12","level":"info","msg":"map[]","path":"/redis","peer":"10.112.27.19","serino":1568183479433003869,"time":"2019-09-11T02:31:19-04:00","user":null}
+{"file":"alive.go:middleware.IAmAlive:12","level":"info","msg":"map[]","path":"/redis","peer":"10.112.27.19","serino":1568183493414509454,"time":"2019-09-11T02:31:33-04:00","user":null}

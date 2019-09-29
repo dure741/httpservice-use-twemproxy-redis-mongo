@@ -1,0 +1,2 @@
+{"file":"alive.go:middleware.IAmAlive:12","level":"info","msg":"map[]","path":"/demoget","peer":"10.112.27.19","serino":1568170536311917703,"time":"2019-09-10T22:55:36-04:00","user":null}
+{"costtime":276116,"file":"context.go:context.DefaultNext:1208","level":"info","msg":"hello gu long","path":"/demoget","peer":"10.112.27.19","remote_ip":"10.112.27.19:56434","serino":1568170536311917703,"time":"2019-09-10T22:55:36-04:00","user":null}

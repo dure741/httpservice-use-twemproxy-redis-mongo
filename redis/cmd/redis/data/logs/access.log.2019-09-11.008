@@ -1,0 +1,5 @@
+{"file":"alive.go:middleware.IAmAlive:12","level":"info","msg":"map[]","path":"/redis","peer":"10.112.27.19","serino":1568185229200280697,"time":"2019-09-11T03:00:29-04:00","user":null}
+{"file":"alive.go:middleware.IAmAlive:12","level":"info","msg":"map[]","path":"/redis","peer":"10.112.27.19","serino":1568185240505613032,"time":"2019-09-11T03:00:40-04:00","user":null}
+{"file":"alive.go:middleware.IAmAlive:12","level":"info","msg":"map[]","path":"/redis","peer":"10.112.27.19","serino":1568185242182588875,"time":"2019-09-11T03:00:42-04:00","user":null}
+{"file":"alive.go:middleware.IAmAlive:12","level":"info","msg":"map[]","path":"/redis","peer":"10.112.27.19","serino":1568185242424409391,"time":"2019-09-11T03:00:42-04:00","user":null}
+{"file":"alive.go:middleware.IAmAlive:12","level":"info","msg":"map[]","path":"/redis","peer":"10.112.27.19","serino":1568185242670476048,"time":"2019-09-11T03:00:42-04:00","user":null}

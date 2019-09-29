@@ -1,0 +1,9 @@
+{"file":"alive.go:middleware.IAmAlive:12","level":"info","msg":"map[]","path":"/redis","peer":"10.112.27.19","serino":1568183373582307787,"time":"2019-09-11T02:29:33-04:00","user":null}
+{"file":"alive.go:middleware.IAmAlive:12","level":"info","msg":"map[]","path":"/redis","peer":"10.112.27.19","serino":1568183392851555302,"time":"2019-09-11T02:29:52-04:00","user":null}
+{"file":"alive.go:middleware.IAmAlive:12","level":"info","msg":"map[]","path":"/redis","peer":"10.112.27.19","serino":1568183405317215891,"time":"2019-09-11T02:30:05-04:00","user":null}
+{"file":"alive.go:middleware.IAmAlive:12","level":"info","msg":"map[]","path":"/redis","peer":"10.112.27.19","serino":1568183408701099135,"time":"2019-09-11T02:30:08-04:00","user":null}
+{"file":"alive.go:middleware.IAmAlive:12","level":"info","msg":"map[]","path":"/redis","peer":"10.112.27.19","serino":1568183409446759249,"time":"2019-09-11T02:30:09-04:00","user":null}
+{"file":"alive.go:middleware.IAmAlive:12","level":"info","msg":"map[]","path":"/redis","peer":"10.112.27.19","serino":1568183409952765721,"time":"2019-09-11T02:30:09-04:00","user":null}
+{"file":"alive.go:middleware.IAmAlive:12","level":"info","msg":"map[]","path":"/redis","peer":"10.112.27.19","serino":1568183410178122160,"time":"2019-09-11T02:30:10-04:00","user":null}
+{"file":"alive.go:middleware.IAmAlive:12","level":"info","msg":"map[]","path":"/redis","peer":"10.112.27.19","serino":1568183410420463791,"time":"2019-09-11T02:30:10-04:00","user":null}
+{"file":"alive.go:middleware.IAmAlive:12","level":"info","msg":"map[]","path":"/redis","peer":"10.112.27.19","serino":1568183421353110555,"time":"2019-09-11T02:30:21-04:00","user":null}

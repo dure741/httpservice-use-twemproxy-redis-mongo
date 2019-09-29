@@ -1,0 +1,3 @@
+{"file":"alive.go:middleware.IAmAlive:12","level":"info","msg":"map[]","path":"/redis","peer":"10.112.27.19","serino":1568183147904103636,"time":"2019-09-11T02:25:47-04:00","user":null}
+{"file":"alive.go:middleware.IAmAlive:12","level":"info","msg":"map[]","path":"/redis","peer":"10.112.27.19","serino":1568183206554894943,"time":"2019-09-11T02:26:46-04:00","user":null}
+{"file":"alive.go:middleware.IAmAlive:12","level":"info","msg":"map[]","path":"/redis","peer":"10.112.27.19","serino":1568183217690097860,"time":"2019-09-11T02:26:57-04:00","user":null}
